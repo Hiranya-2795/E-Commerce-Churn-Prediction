@@ -426,7 +426,63 @@ The scope defines what the **E-commerce Customer Churn Prediction System** will 
 
    * The system provides suggestions but does not execute marketing campaigns automatically.
 
-
-
    * Codebase is open-source and can be extended for additional features, e.g., multi-class churn prediction or real-time integration with e-commerce platforms.
+  
+---
+  
+### **7. Need for the Application & Target Audience**
+
+#### **A. Need for the Application**
+
+1. **Customer Retention is Cheaper than Acquisition**
+
+   * Studies show acquiring a new customer costs **5–7 times more** than retaining an existing one.
+   * This system helps businesses *retain customers* by predicting churn before it happens.
+
+2. **Proactive Business Strategy**
+
+   * Instead of reacting after customers leave, businesses can take **preventive measures** like personalized discounts, loyalty points, or targeted marketing campaigns.
+
+3. **Data-Driven Decision Making**
+
+   * Moves decision-making from guesswork to **evidence-based predictions** backed by machine learning and AI insights.
+
+4. **Time and Cost Savings**
+
+   * Marketing budgets can be spent more effectively by targeting only customers with a high churn risk.
+   * Reduces unnecessary blanket offers to customers who would stay anyway.
+
+5. **Personalized Customer Engagement**
+
+   * Gemini AI integration ensures insights are tailored to the customer’s behavior and preferences, increasing the likelihood of re-engagement.
+
+6. **Easy-to-Use for Non-Technical Teams**
+
+   * Streamlit interface allows marketing and customer service teams to use it without any coding knowledge.
+
+
+#### **B. Target Audience**
+
+1. **E-commerce Businesses**
+
+   * Both large-scale platforms (e.g., Amazon, Flipkart, Myntra) and small-to-medium online stores can use this to predict and prevent churn.
+
+2. **Marketing & Retention Teams**
+
+   * Teams responsible for customer loyalty programs, personalized promotions, and re-engagement campaigns.
+
+3. **Business Analysts**
+
+   * Analysts who want actionable insights and easy-to-understand visualizations to support decision-making.
+
+4. **Customer Relationship Management (CRM) Platforms**
+
+   * The system could be integrated into CRM software for real-time churn predictions.
+
+5. **Subscription-based E-commerce**
+
+   * Services like meal-kit deliveries, beauty boxes, or fashion rentals where customer retention directly impacts recurring revenue.
+
+
+
 
