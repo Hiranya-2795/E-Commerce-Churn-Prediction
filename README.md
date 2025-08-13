@@ -1,4 +1,4 @@
-### **1. Problem Description **
+### 1. **Problem Description **
 
 **Problem:**
 In e-commerce, retaining customers is critical. A large portion of revenue is lost when loyal customers stop purchasing—commonly called *customer churn*. Many e-commerce platforms have difficulty predicting which customers are likely to stop buying, which leads to ineffective marketing campaigns, wasted resources, and reduced revenue.
@@ -23,6 +23,8 @@ Imagine an e-commerce company noticing a sudden drop in orders from certain cust
 * See visual insights like declining monthly spending or low ratings.
 * Receive actionable tips through AI (like personalized recommendations for the customer’s preferred category).
 * Send targeted offers or follow-up messages, reducing the risk of churn and increasing lifetime customer value.
+
+  ---
 
 ### 2. **Objectives of this Project**
 
@@ -58,6 +60,8 @@ The main objectives of your **E-commerce Customer Churn Prediction System** can 
    * Provide a simple, intuitive Streamlit-based interface for non-technical users to input customer data and get results immediately.
    * Make the system accessible to marketing teams, customer support, and business analysts without requiring programming skills.
 
+  ---
+
 ### 3. **Scope of the Project**
 
 The scope defines what the **E-commerce Customer Churn Prediction System** will cover and its limitations. Here's a detailed breakdown:
@@ -92,8 +96,6 @@ The scope defines what the **E-commerce Customer Churn Prediction System** will 
 
    * Streamlit-based interactive UI for data input, prediction, visualization, and report download.
    * Mandatory fields validation to ensure accuracy.
-
-Got it — let’s focus fully on **Point 3: Existing Systems** so you have clear examples to mention in your report or viva.
 
 ---
 
