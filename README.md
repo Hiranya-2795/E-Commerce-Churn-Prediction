@@ -62,43 +62,6 @@ The main objectives of your **E-commerce Customer Churn Prediction System** can 
 
 ---
 
-### 3. **Scope of the Project**
-
-The scope defines what the **E-commerce Customer Churn Prediction System** will cover and its limitations. Here's a detailed breakdown:
-
-#### **In-Scope**
-
-1. **Customer Data Analysis**
-
-   * Analyze customer behavior including order history, spending patterns, product categories, coupon usage, payment methods, and ratings.
-   * Calculate derived features like average order value, spend trend, and order frequency score.
-
-2. **Churn Prediction**
-
-   * Use a machine learning model (Random Forest Classifier) to predict the likelihood of a customer churning.
-   * Handle imbalanced data using techniques like `class_weight='balanced'`.
-
-3. **Insights & Recommendations**
-
-   * Provide clear reasons for churn or non-churn using Gemini AI integration.
-   * Generate personalized suggestions to improve customer engagement and reduce churn.
-
-4. **Data Visualization**
-
-   * Display charts (bar graphs, line charts) to represent spending patterns, purchase frequency, and other metrics.
-   * Offer visual insights for easy interpretation by non-technical users.
-
-5. **Report Generation**
-
-   * Generate downloadable Word reports including predictions, insights, and charts for documentation and presentation purposes.
-
-6. **User Interface**
-
-   * Streamlit-based interactive UI for data input, prediction, visualization, and report download.
-   * Mandatory fields validation to ensure accuracy.
-
----
-
 ### **3. Existing Systems for Churn Prediction**
 
 Several churn prediction tools and platforms already exist in the market, each with different strengths and limitations:
@@ -334,7 +297,7 @@ Several churn prediction tools and platforms already exist in the market, each w
 ```
 ---
 
-### **4. Difference Between Existing Systems and the Current Application**
+### **5. Difference Between Existing Systems and the Current Application**
 
 #### **A. Existing Systems**
 
@@ -406,6 +369,42 @@ Most existing churn prediction solutions fall into one of these categories:
 * Affordable and open-source compared to costly enterprise tools.
 * Designed for **both small businesses and large-scale platforms** — scalable without massive infrastructure.
 * **Personalization is built-in**, unlike generic churn scores from existing tools.
+
+---
+### 6. **Scope of the Project**
+
+The scope defines what the **E-commerce Customer Churn Prediction System** will cover and its limitations. Here's a detailed breakdown:
+
+#### **In-Scope**
+
+1. **Customer Data Analysis**
+
+   * Analyze customer behavior including order history, spending patterns, product categories, coupon usage, payment methods, and ratings.
+   * Calculate derived features like average order value, spend trend, and order frequency score.
+
+2. **Churn Prediction**
+
+   * Use a machine learning model (Random Forest Classifier) to predict the likelihood of a customer churning.
+   * Handle imbalanced data using techniques like `class_weight='balanced'`.
+
+3. **Insights & Recommendations**
+
+   * Provide clear reasons for churn or non-churn using Gemini AI integration.
+   * Generate personalized suggestions to improve customer engagement and reduce churn.
+
+4. **Data Visualization**
+
+   * Display charts (bar graphs, line charts) to represent spending patterns, purchase frequency, and other metrics.
+   * Offer visual insights for easy interpretation by non-technical users.
+
+5. **Report Generation**
+
+   * Generate downloadable Word reports including predictions, insights, and charts for documentation and presentation purposes.
+
+6. **User Interface**
+
+   * Streamlit-based interactive UI for data input, prediction, visualization, and report download.
+   * Mandatory fields validation to ensure accuracy.
 
 ---
 
