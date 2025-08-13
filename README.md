@@ -1,4 +1,4 @@
-### 1. **Problem Description **
+### 1. Problem Description 
 
 **Problem:**
 In e-commerce, retaining customers is critical. A large portion of revenue is lost when loyal customers stop purchasing—commonly called *customer churn*. Many e-commerce platforms have difficulty predicting which customers are likely to stop buying, which leads to ineffective marketing campaigns, wasted resources, and reduced revenue.
@@ -24,7 +24,7 @@ Imagine an e-commerce company noticing a sudden drop in orders from certain cust
 * Receive actionable tips through AI (like personalized recommendations for the customer’s preferred category).
 * Send targeted offers or follow-up messages, reducing the risk of churn and increasing lifetime customer value.
 
-  ---
+---
 
 ### 2. **Objectives of this Project**
 
@@ -60,7 +60,7 @@ The main objectives of your **E-commerce Customer Churn Prediction System** can 
    * Provide a simple, intuitive Streamlit-based interface for non-technical users to input customer data and get results immediately.
    * Make the system accessible to marketing teams, customer support, and business analysts without requiring programming skills.
 
-  ---
+---
 
 ### 3. **Scope of the Project**
 
@@ -118,7 +118,6 @@ Several churn prediction tools and platforms already exist in the market, each w
   * Requires Salesforce ecosystem integration.
   * Explanations are basic and not category-personalized.
 
----
 
 #### **2. HubSpot Service Hub**
 
@@ -133,7 +132,6 @@ Several churn prediction tools and platforms already exist in the market, each w
   * Focuses more on support-related churn, not full e-commerce purchase behavior.
   * Insights are not deeply personalized.
 
----
 
 #### **3. IBM Watson Customer Insight**
 
@@ -147,8 +145,7 @@ Several churn prediction tools and platforms already exist in the market, each w
 
   * Complex setup requiring data science expertise.
   * High implementation and operational cost.
-
----
+    
 
 #### **4. RetentionX**
 
@@ -335,10 +332,9 @@ Several churn prediction tools and platforms already exist in the market, each w
    v
 [End]
 ```
+---
 
 ### **4. Difference Between Existing Systems and the Current Application**
-
----
 
 #### **A. Existing Systems**
 
@@ -411,6 +407,7 @@ Most existing churn prediction solutions fall into one of these categories:
 * Designed for **both small businesses and large-scale platforms** — scalable without massive infrastructure.
 * **Personalization is built-in**, unlike generic churn scores from existing tools.
 
+---
 
 #### **Out-of-Scope - Future Scope**
 
