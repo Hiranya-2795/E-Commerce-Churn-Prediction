@@ -485,4 +485,4 @@ The scope defines what the **E-commerce Customer Churn Prediction System** will 
 
 
 
-
+https://chatgpt.com/share/68a0980c-1c58-8002-aa56-503774b05db7
